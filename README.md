@@ -32,3 +32,13 @@ Ques 12:Write a class Worker and derive classes DailyWorker and SalariedWorker f
 Ques13:Consider the trunk calls of a telephone exchange. A trunk call can be ordinary, urgent or lightning. The charges depend on the duration and the type of the call. Write a program using the concept of polymorphism in Java to calculate the charges.
 
 Ques 14:Design a class employee of an organization. An employee has a name, empid, and salary .Write the default constructor, a constructor with parameters (name, empid, and salary) and methods to return name and salary. Also write a method increase Salary that raises the employee’s salary by a certain user specified percentage. Derive a subclass Manager from employee. Add an instance variable named department to the manager class. Supply a test program that uses theses classes and methods.
+  
+  
+                                                                 TITLE:PACKAGES
+                                                                 
+                                                                 
+Ques 15: Write a Java program to implement the concept of importing classes from user definedpackage and created packages.
+
+Ques 16:Write a program to make a package Balance. This has an Account class with Display_Balance method. Import Balance package in another program to accessDisplay_Balance method of Account class.
+
+Ques 17:WAP to create a package p with class A with 4 types of access protected methods. Howwe will use these methods in different packages class i.e. there is main() in class B inpackage Q and 4 methods are in Class A in package p.
